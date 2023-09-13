@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Yousuf Ahmed
-- 👀 I’m interested in joe mama /jk
-- 🌱 I’m currently learning how to live, and how to set-up a business
+- 👀 I’m interested in Cyber Security and meeting people
+- 🌱 I’m currently learning some cyber security skills
 - 💞️ I’m looking to collaborate on making some friends
-- 📫 How to reach me (come meet me on roftop of a 200 story building and lets jump off the roof together (ofc with a parachute)
+- 📫 How to reach me: just leave me a mail, ill respond to it
 
 <!---
 Yousuf-Ahmed06/Yousuf-Ahmed06 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
